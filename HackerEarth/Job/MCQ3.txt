@@ -1,0 +1,7 @@
+Bob is working on a server in Git and he wants to put his repository on the server he wants to put his repository on the server and set up some protocols.
+If he wants to write git attributes, then which of the following statements are correct?
+
+1. The gitattributes file is a text file that gives attributes to a pathname
+2. Lines that begin with '//' are ignored.
+3. Each line in the gitattributes file is of the "pattern atrib1-atrib2-atrib3..." form.
+4. The gitattributes directory is $GIT_DIR/info/attributes.

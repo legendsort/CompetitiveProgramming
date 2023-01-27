@@ -1,0 +1,8 @@
+In Shell Scripting, Ben is working on the Telnet network communication utilities.
+Which of the following statements about the telnet terminal commands are correct:
+
+1. The telnet -x command is used to enable the decryption of the data stream.
+2. The telent -n trace line command is used to open the trace file for recording the tracing information.
+3. The telnet -f command is used to allow the local credentials to be forwarded to the remote system when the Kerberos V5 authentication is being used.
+
+2 3

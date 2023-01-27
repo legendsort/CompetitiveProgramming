@@ -1,0 +1,7 @@
+Bob is working on a server in Git and he wants to put his repository on the server and set up some protocols.
+Assuming that the server name is git.hacker.com and hack/git exists in the server and he wants to set up his repository here.
+Which of the following commands should he use?
+
+1. cp -w project.git user@git.hacker.com:/hack/git
+2. scp -r project.git user@git.hacker.com:/hack/git   OK
+3. cp -r project.git user@git.hacker.com:/hack/git

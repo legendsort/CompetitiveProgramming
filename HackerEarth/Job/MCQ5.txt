@@ -1,0 +1,9 @@
+Jon is working on Git. While working on an application, he is required to implement the following command in option parsing mode and he wants to know about the option that can echo out the first -- met instead of skipping it.
+Help him to find which of the following can be used in the above-mentioned scenario.
+
+Command: git rev-parser
+
+1. --stuck-long
+2. --stop-at-non-option
+3. --keep-dashdash OK
+4. --revs-only
